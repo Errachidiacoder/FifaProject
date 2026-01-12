@@ -1,0 +1,287 @@
+[
+    {
+        "id": 1,
+        "name": "Lionel Messi",
+        "position": "FWD",
+        "rating": 93,
+        "photo": "https://img.a.transfermarkt.technology/portrait/header/28003-1710080339.jpg?lm=1",
+        "stats": {
+            "pac": 85,
+            "sho": 92,
+            "pas": 91,
+            "dri": 95,
+            "def": 34,
+            "phy": 65
+        }
+    },
+    {
+        "id": 2,
+        "name": "Kevin De Bruyne",
+        "position": "MID",
+        "rating": 91,
+        "photo": "https://img.a.transfermarkt.technology/portrait/header/88755-1715000579.jpg?lm=1",
+        "stats": {
+            "pac": 74,
+            "sho": 86,
+            "pas": 93,
+            "dri": 87,
+            "def": 64,
+            "phy": 78
+        }
+    },
+    {
+        "id": 3,
+        "name": "Kylian Mbappé",
+        "position": "FWD",
+        "rating": 91,
+        "photo": "https://img.a.transfermarkt.technology/portrait/header/342229-1682683695.jpg?lm=1",
+        "stats": {
+            "pac": 97,
+            "sho": 89,
+            "pas": 80,
+            "dri": 92,
+            "def": 36,
+            "phy": 76
+        }
+    },
+    {
+        "id": 4,
+        "name": "Virgil van Dijk",
+        "position": "DEF",
+        "rating": 90,
+        "photo": "https://img.a.transfermarkt.technology/portrait/header/139208-1682683995.jpg?lm=1",
+        "stats": {
+            "pac": 81,
+            "sho": 60,
+            "pas": 71,
+            "dri": 72,
+            "def": 91,
+            "phy": 86
+        }
+    },
+    {
+        "id": 5,
+        "name": "Thibaut Courtois",
+        "position": "GK",
+        "rating": 90,
+        "photo": "https://img.a.transfermarkt.technology/portrait/header/108390-1715000958.jpg?lm=1",
+        "stats": {
+            "pac": 90,
+            "sho": 89,
+            "pas": 75,
+            "dri": 90,
+            "def": 46,
+            "phy": 85
+        }
+    },
+    {
+        "id": 6,
+        "name": "Mohamed Salah",
+        "position": "FWD",
+        "rating": 90,
+        "photo": "https://img.a.transfermarkt.technology/portrait/header/148455-1546611604.jpg?lm=1",
+        "stats": {
+            "pac": 90,
+            "sho": 87,
+            "pas": 81,
+            "dri": 90,
+            "def": 45,
+            "phy": 75
+        }
+    },
+    {
+        "id": 7,
+        "name": "Neymar Jr",
+        "position": "FWD",
+        "rating": 89,
+        "photo": "https://img.a.transfermarkt.technology/portrait/header/68290-1667232386.jpg?lm=1",
+        "stats": {
+            "pac": 87,
+            "sho": 83,
+            "pas": 85,
+            "dri": 93,
+            "def": 37,
+            "phy": 61
+        }
+    },
+    {
+        "id": 8,
+        "name": "Joshua Kimmich",
+        "position": "MID",
+        "rating": 89,
+        "photo": "https://img.a.transfermarkt.technology/portrait/header/161056-1709562768.jpg?lm=1",
+        "stats": {
+            "pac": 68,
+            "sho": 72,
+            "pas": 87,
+            "dri": 84,
+            "def": 82,
+            "phy": 79
+        }
+    },
+    {
+        "id": 9,
+        "name": "Jan Oblak",
+        "position": "GK",
+        "rating": 89,
+        "photo": "https://img.a.transfermarkt.technology/portrait/header/121483-1710924976.jpg?lm=1",
+        "stats": {
+            "pac": 87,
+            "sho": 92,
+            "pas": 78,
+            "dri": 89,
+            "def": 50,
+            "phy": 90
+        }
+    },
+    {
+        "id": 10,
+        "name": "Harry Kane",
+        "position": "FWD",
+        "rating": 89,
+        "photo": "https://img.a.transfermarkt.technology/portrait/header/132098-1725530666.jpg?lm=1",
+        "stats": {
+            "pac": 68,
+            "sho": 91,
+            "pas": 83,
+            "dri": 82,
+            "def": 47,
+            "phy": 82
+        }
+    },
+    {
+        "id": 11,
+        "name": "Ruben Dias",
+        "position": "DEF",
+        "rating": 88,
+        "photo": "https://img.a.transfermarkt.technology/portrait/header/258004-1682683935.jpg?lm=1",
+        "stats": {
+            "pac": 63,
+            "sho": 39,
+            "pas": 66,
+            "dri": 68,
+            "def": 88,
+            "phy": 88
+        }
+    },
+    {
+        "id": 12,
+        "name": "Luka Modric",
+        "position": "MID",
+        "rating": 88,
+        "photo": "https://img.a.transfermarkt.technology/portrait/header/27992-1695025983.jpg?lm=1",
+        "stats": {
+            "pac": 73,
+            "sho": 76,
+            "pas": 89,
+            "dri": 88,
+            "def": 72,
+            "phy": 66
+        }
+    },
+    {
+        "id": 13,
+        "name": "Marquinhos",
+        "position": "DEF",
+        "rating": 88,
+        "photo": "https://img.a.transfermarkt.technology/portrait/header/214633-1671098488.jpg?lm=1",
+        "stats": {
+            "pac": 79,
+            "sho": 56,
+            "pas": 75,
+            "dri": 74,
+            "def": 89,
+            "phy": 80
+        }
+    },
+    {
+        "id": 14,
+        "name": "Bernardo Silva",
+        "position": "MID",
+        "rating": 88,
+        "photo": "https://img.a.transfermarkt.technology/portrait/header/241641-1695028442.jpg?lm=1",
+        "stats": {
+            "pac": 77,
+            "sho": 78,
+            "pas": 84,
+            "dri": 92,
+            "def": 61,
+            "phy": 68
+        }
+    },
+    {
+        "id": 15,
+        "name": "Alisson",
+        "position": "GK",
+        "rating": 89,
+        "photo": "https://img.a.transfermarkt.technology/portrait/header/225432-1715000995.jpg?lm=1",
+        "stats": {
+            "pac": 89,
+            "sho": 85,
+            "pas": 85,
+            "dri": 89,
+            "def": 52,
+            "phy": 90
+        }
+    },
+    {
+        "id": 16,
+        "name": "Antonio Rudiger",
+        "position": "DEF",
+        "rating": 87,
+        "photo": "https://img.a.transfermarkt.technology/portrait/header/86202-1684762580.jpg?lm=1",
+        "stats": {
+            "pac": 82,
+            "sho": 53,
+            "pas": 71,
+            "dri": 66,
+            "def": 86,
+            "phy": 85
+        }
+    },
+    {
+        "id": 17,
+        "name": "Frenkie de Jong",
+        "position": "MID",
+        "rating": 87,
+        "photo": "https://img.a.transfermarkt.technology/portrait/header/326330-1695033877.jpg?lm=1",
+        "stats": {
+            "pac": 82,
+            "sho": 69,
+            "pas": 86,
+            "dri": 87,
+            "def": 77,
+            "phy": 78
+        }
+    },
+    {
+        "id": 18,
+        "name": "Joao Cancelo",
+        "position": "DEF",
+        "rating": 88,
+        "photo": "https://img.a.transfermarkt.technology/portrait/header/182712-1662973715.jpg?lm=1",
+        "stats": {
+            "pac": 85,
+            "sho": 73,
+            "pas": 85,
+            "dri": 85,
+            "def": 80,
+            "phy": 72
+        }
+    },
+    {
+        "id": 19,
+        "name": "Casemiro",
+        "position": "MID",
+        "rating": 89,
+        "photo": "https://img.a.transfermarkt.technology/portrait/header/16306-1683902894.jpg?lm=1",
+        "stats": {
+            "pac": 63,
+            "sho": 73,
+            "pas": 75,
+            "dri": 72,
+            "def": 87,
+            "phy": 90
+        }
+    }
+]
